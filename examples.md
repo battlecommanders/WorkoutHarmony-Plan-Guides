@@ -1,11 +1,29 @@
-
 # WorkoutHarmony Plan Authoring Examples
 
 WorkoutHarmony is currently available only to testers. Anyone can try the prompts below and review the resulting Markdown.
 
-Paste or attach the [AI chat guide](chat.md) in a regular chat, then send one of the prompts below. If you use an agent with the [WorkoutHarmony plan skill](workout-harmony-plans/SKILL.md) installed, ask it to use `workout-harmony-plans` and send the same prompt.
+Send the guide link below before your workout prompt. If you have the [plan skill](workout-harmony-plans/SKILL.md) installed, ask your agent to use `workout-harmony-plans`.
 
 You can review and save the generated Markdown before importing it into the app.
+
+## Start with a Simple Request
+
+You do not need to design every exercise or learn the Markdown format before starting. Ask your AI to read the guide, then describe your goal in plain language. Refine the initial plan through conversation.
+
+**First prompt — provide the guide**
+
+```text
+Read this guide and wait for my workout request.
+https://raw.githubusercontent.com/battlecommanders/WorkoutHarmony-Plan-Guides/refs/heads/main/chat.md
+```
+
+**Second prompt — describe your goal**
+
+```text
+Create a simple full-body workout for home using one 35 lb kettlebell. Use @35 for kettlebell exercises.
+```
+
+The AI can produce an initial WorkoutHarmony plan from this short request. Review its suggestions, then adjust what matters to you.
 
 ## Create a One-Dumbbell Strength Plan
 
@@ -17,7 +35,6 @@ This example adapts the strength circuit from Michael Boyle's one-dumbbell in-se
 
 ```text
 Create one WorkoutHarmony plan based on the strength circuit in Michael Boyle's One Dumbbell In-Season Workout.
-
 Use three rounds. In each round, do 10 bodyweight split squats per side, 10 push-ups, 10 single-leg dumbbell deadlifts per side, and 10 one-arm dumbbell rows per side.
 
 Give each exercise its own step. Use "Single-leg deadlift" as the deadlift's Watch name.
@@ -72,7 +89,6 @@ Change only the Rest step and return the complete revised contents.
 ```
 
 Rest is now a **Flexible** round step. The three slots specify 60 seconds, 90 seconds, and skip. The trailing pipe leaves the third slot empty.
-
 **Flexible** round steps allow each named step to be included or skipped in individual rounds, with different repetitions, weights, or durations when included.
 
 [Markdown format reference](workout-harmony-plans/references/markdown.md)
