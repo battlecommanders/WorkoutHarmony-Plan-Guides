@@ -27,6 +27,7 @@ WorkoutHarmony supports a wide range of training scenarios, including:
 
 - **Flexible workout structures:** Organize exercises into sections, rounds, combined steps, and variable sets. Support progressive weights and repetitions across sets, as well as rounds with varying exercises, workloads, durations, and rest intervals.
 - **Guided workouts:** Follow structured training sessions with repetitions, weights, timers, and other exercise properties.
+- **Off-wrist workouts:** Take off the Watch for exercises where equipment could hit it, such as kettlebell work, then put it back on and continue. You can also run the workout on iPhone and play voice prompts through its speaker so a group can follow along.
 - **Workout history and analysis:** Review completed workouts, including exercise-level heart rate records when Apple Watch samples are available.
 - **Personal customization:** Adjust exercises, workloads, and workout structures to accommodate different training methods and individual needs.
 - **Markdown-based plans:** Create and modify structured workouts using a readable format, including plans generated with AI assistance.
