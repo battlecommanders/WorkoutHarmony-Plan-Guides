@@ -93,50 +93,6 @@ Rest is now a **Flexible** round step. The three slots specify 60 seconds, 90 se
 
 [Markdown format reference](workout-harmony-plans/references/markdown.md)
 
-## Create a Xing Yi Five Elements Practice
-
-This example creates a Xing Yi Quan (形意拳) Five Elements practice. It begins with 15 minutes of San-ti Shi (三体式) standing practice per side, followed by five separate fist movements.
-
-It demonstrates a simple martial arts routine combining timed and self-paced exercises, using Chinese exercise names.
-
-**Prompt to copy**
-
-```text
-Create one WorkoutHarmony plan for Xing Yi Quan Five Elements (形意五行拳) practice.
-
-Start with one 三体式 standing practice step with a 15-minute timer on the left, then a separate 15-minute timer on the right.
-
-Then add the five element fists as separate steps in this order:
-
-1. 劈拳
-2. 钻拳
-3. 崩拳
-4. 横拳
-5. 炮拳
-
-Use Chinese names for the section and all exercises.
-
-Leave repetitions and durations unspecified for the five fists so they can be practiced at an individual pace.
-
-Return the complete sections and steps.
-```
-
-**Example output**
-
-```markdown
-##### 形意五行拳
-- 三体式, x15m ea
-- 劈拳
-- 钻拳
-- 崩拳
-- 横拳
-- 炮拳
-```
-
-San-ti Shi (三体式) uses **Left / Right Duration**. It runs for 15 minutes on the left, then 15 minutes on the right, for 30 minutes of standing practice. Each of the five fists is a separate, self-paced step without a predefined duration or repetition count.
-
-WorkoutHarmony supports Chinese and English exercise names.
-
 ## Import or Update a Plan
 
 If you have tester access to WorkoutHarmony:
