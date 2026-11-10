@@ -79,6 +79,8 @@ Keep the skill folder and its reference files together when sharing or installin
 
 Includes sample prompts and complete Markdown examples for creating workout plans and revising them with either guide.
 
+For help choosing steps, timers, and cues, see the [Workout Design Tips](workout-design-tips.md).
+
 ## Creating and Updating Workout Plans
 
 1. Describe the workout you want to create, including exercises, repetitions, weights, durations, and any special structure.
