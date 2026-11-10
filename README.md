@@ -9,6 +9,8 @@ The app is built around the idea that workouts should adapt to individual traini
 
 **Availability:** WorkoutHarmony is currently available only to testers. The Markdown guides and AI authoring skill in this repository are freely available now.
 
+![WorkoutHarmony Plan Guides banner with iPhone and Apple Watch app previews](assets/preview.png)
+
 WorkoutHarmony supports a wide range of training scenarios, including:
 
 - **Strength training:** Traditional exercises, variable sets, circuits, supersets, and changing repetitions or weights.
