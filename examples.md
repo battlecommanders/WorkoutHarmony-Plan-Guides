@@ -93,6 +93,32 @@ Rest is now a **Flexible** round step. The three slots specify 60 seconds, 90 se
 
 [Markdown format reference](workout-harmony-plans/references/markdown.md)
 
+## Martial Arts Practice: Xing Yi Five Element Fists
+
+This martial arts workout starts with Three-Body Standing for 15 minutes on each side, followed by the five foundational fists. It shows how to combine a timed left/right exercise with self-paced movements in one WorkoutHarmony plan.
+
+**Prompt to copy**
+
+```text
+Create a WorkoutHarmony plan for Xing Yi Five Element Fists.
+Start with Three-Body Standing, 15 minutes on each side.
+Then list these exercise names only: Splitting Fist, Drilling Fist, Crushing Fist, Crossing Fist, Cannon Fist.
+No sections, no notes, no rest.
+```
+
+**Example output**
+
+```markdown
+- Three-Body Standing, x15m ea
+- Splitting Fist
+- Drilling Fist
+- Crushing Fist
+- Crossing Fist
+- Cannon Fist
+```
+
+`ea` means **Each Side**. Three-Body Standing uses **Left / Right Duration** for 15 minutes per side (30 minutes total). Each fist is a separate, self-paced step.
+
 ## Import or Update a Plan
 
 If you have tester access to WorkoutHarmony:
