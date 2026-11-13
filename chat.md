@@ -1,12 +1,12 @@
 # Create or update a WorkoutHarmony workout in an AI chat
 
-WorkoutHarmony is currently available only to testers. Anyone can use this guide to generate a readable Markdown plan, review it, and keep a copy for later changes. The guide is part of the MIT-licensed authoring package.
+Anyone can use this guide to generate a readable Markdown plan, review it, and keep a copy for later changes. The guide is part of the MIT-licensed authoring package.
 
 Paste or attach this file in your preferred AI chat, then describe the workout you want: exercises, reps or durations, rest and any rounds, including flexible steps that can be used or skipped in each set with different reps, weights or other volume values. To update a workout, also supply its existing Markdown and the requested changes. No installed skill is needed. Work on one workout at a time.
 
 See the [worked examples](examples.md) for copyable prompts and complete Markdown output.
 
-Once you have access to WorkoutHarmony, create or select the destination plan. Set its name, exercise type, activity, and schedule in the app. Paste the AI's Markdown into that plan, review it, and save. Countdown, timeout and other small step-property adjustments can be handled in the phone editor.
+If you have access to WorkoutHarmony, create or select the destination plan. Set its name, exercise type, activity, and schedule in the app. Paste the AI's Markdown into that plan, review it, and save. Countdown, timeout and other small step-property adjustments can be handled in the phone editor.
 
 ## Phone paste replaces contents
 

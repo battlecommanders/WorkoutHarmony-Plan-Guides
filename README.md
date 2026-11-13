@@ -5,6 +5,8 @@
 
 **WorkoutHarmony** is a flexible workout planning and tracking app designed for iPhone, with optional Apple Watch and Mac support.
 
+WorkoutHarmony is currently used internally. The workout plan guides are publicly available.
+
 The app is built around the idea that workouts should adapt to individual training needs, rather than forcing users into predefined exercises or rigid structures.
 
 ![Four stages of the Xing Yi workout workflow: generate Markdown in an AI chat, paste it into WorkoutHarmony on iPhone, review the plan, and follow the workout on Apple Watch.](assets/workflow.webp)
@@ -47,8 +49,6 @@ With your preferred AI chat or coding agent, you can:
 - Maintain reusable workout plans as Markdown files.
 
 **You do not need WorkoutHarmony, an AI API key, or access to the app's source code to use these guides.**
-
-The guides are available independently of the app's public release. They can be used to create and maintain workout plans now, and the resulting Markdown can later be brought into WorkoutHarmony.
 
 The goal is to share practical, reusable tools that people can adapt to their own training needs and workflows.
 
@@ -172,11 +172,9 @@ These tools assist with workout-plan authoring; they do not prescribe a particul
 
 ## Feedback and Collaboration
 
-Feedback, practical suggestions, examples, and documentation improvements are welcome.
+Suggestions, examples, and documentation improvements for the guides and authoring skill are welcome in this repository's issues.
 
 **Simplicity is a core design principle.** Improvements should address real workout needs while keeping the app, Markdown format, and authoring tools straightforward and easy to use. Additional complexity should be justified by clear practical value.
-
-WorkoutHarmony is currently available only to testers. If you’d like to test the app or collaborate on the guides and skill, please open an issue in this repository. Describe the workouts you do, the device you would use, and how you would like to participate.
 
 ## License and Attribution
 

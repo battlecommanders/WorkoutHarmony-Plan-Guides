@@ -9,7 +9,7 @@ Create one WorkoutHarmony workout from a user's description, or revise existing 
 
 WorkoutHarmony's broader purpose is to make different types of workouts flexible and easy to follow, keep useful records, and support personal self-review. This skill supports the planning part of that workflow: fit the workout's structure and detail to the user's activity and preferences, and help revise it when the user supplies review findings or actual results and requests a change.
 
-WorkoutHarmony is currently available only to testers. Anyone can use the authoring skill and guides to generate, review, and revise Markdown plans. The package's MIT license covers the skill, guides, and references. Keep ordinary authoring responses focused on the requested workout. Explain app import when relevant to someone with tester access.
+Anyone can use the authoring skill and guides to generate, review, and revise Markdown plans. The package's MIT license covers the skill, guides, and references. Keep ordinary authoring responses focused on the requested workout. Explain app import when relevant to someone with app access.
 
 Updating a future plan and correcting a completed record are independent choices. A user may leave saved records unchanged and revise only the plan. Do not require history correction before a plan update, infer performed work from prescribed values, or imply that the generated Markdown changes completed records. Record access or modification is outside this authoring skill.
 

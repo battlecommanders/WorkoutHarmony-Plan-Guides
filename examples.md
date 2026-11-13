@@ -1,7 +1,5 @@
 # WorkoutHarmony Plan Authoring Examples
 
-WorkoutHarmony is currently available only to testers. Anyone can try the prompts below and review the resulting Markdown.
-
 Send the guide link below before your workout prompt. If you have the [plan skill](workout-harmony-plans/SKILL.md) installed, ask your agent to use `workout-harmony-plans`.
 
 You can review and save the generated Markdown before importing it into the app.
@@ -109,7 +107,7 @@ No sections, no notes, no rest.
 
 ## Import or Update a Plan
 
-If you have tester access to WorkoutHarmony:
+If you have access to WorkoutHarmony:
 
 1. Create a new workout plan or select an existing one.
 2. Paste the complete generated Markdown into the app's editor.
