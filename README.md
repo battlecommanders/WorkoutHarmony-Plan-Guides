@@ -7,9 +7,7 @@
 
 The app is built around the idea that workouts should adapt to individual training needs, rather than forcing users into predefined exercises or rigid structures.
 
-**Availability:** WorkoutHarmony is currently available only to testers. The Markdown guides and AI authoring skill in this repository are freely available now.
-
-![WorkoutHarmony Plan Guides banner with iPhone and Apple Watch app previews](assets/preview.png)
+![Four stages of the Xing Yi workout workflow: generate Markdown in an AI chat, paste it into WorkoutHarmony on iPhone, review the plan, and follow the workout on Apple Watch.](assets/workflow.webp)
 
 WorkoutHarmony supports a wide range of training scenarios, including:
 
@@ -178,7 +176,7 @@ Feedback, practical suggestions, examples, and documentation improvements are we
 
 **Simplicity is a core design principle.** Improvements should address real workout needs while keeping the app, Markdown format, and authoring tools straightforward and easy to use. Additional complexity should be justified by clear practical value.
 
-If you are interested in testing WorkoutHarmony or collaborating on the guides and skills, please open an issue in this GitHub repository. Describe the workouts you do, the device you would use, and how you would like to participate.
+WorkoutHarmony is currently available only to testers. If you’d like to test the app or collaborate on the guides and skill, please open an issue in this repository. Describe the workouts you do, the device you would use, and how you would like to participate.
 
 ## License and Attribution
 
